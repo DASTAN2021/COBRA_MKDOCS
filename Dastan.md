@@ -1,1 +1,5 @@
-este es un ejemplo  con MKDOCS DE NELSON Bolaños 
+### Arquitectura de Computadoras
+
+esto es otro cambio
+
+![Image text](/imagenes/computadora.jpeg)
