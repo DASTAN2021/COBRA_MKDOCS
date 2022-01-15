@@ -8,4 +8,4 @@ Esta investigación  se basó  en  cuanto de conocimiento sobre  los procesadore
 
 
 
-![Image text](https://github.com/DASTAN2021/COBRA_MKDOCS/blob/main/imagenes/procesador_1.1.jpg)
+![Image text](imagenes/procesador_1.1.jpg)
